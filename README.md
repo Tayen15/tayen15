@@ -1,15 +1,3 @@
-<div align="center">
-  <img height="150" src="https://th.bing.com/th/id/R.fd44b378fa6348a2962605262bff59c5?rik=YP4uh9pnz79nTQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2fb%2fd%2f1012767-top-pastel-wallpaper-1920x1200.jpg&ehk=21FUwvILOBDoJIOBiUyLXhy5CG8zVfBuAyUBOTb%2ftjo%3d&risl=&pid=ImgRaw&r=0"  />
-</div>
-
-###
-
-###
-
-<h1 align="center">hi</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
