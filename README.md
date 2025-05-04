@@ -1,12 +1,12 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Firtiansyah Okta<br><br>- 📚 I am currently studying at a university majoring in informatics engineering<br>- ⚡ In my free time I usually try to create small project projects using several languages</p>
+<p align="left">I'm Firtiansyah Okta, a passionate web developer and informatics engineering student with a drive for creating dynamic, user-focused websites. I specialize in crafting interactive and responsive web applications while staying at the forefront of emerging technology trends. My curiosity fuels my continuous learning, and I love experimenting with new tools and frameworks.<br><br>- 📚 Currently pursuing a degree in Informatics Engineering at university<br>- ⚡ In my spare time, I build small-scale projects to explore various programming languages and technologies</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -29,7 +29,8 @@
 </div>
 
 ###
-<h3 align="left">🔥   My Stats :</h3>
+
+<h3 align="left">🔥 My Stats:</h3>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Tayen15&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="Tayen15's GitHub Stats" />
