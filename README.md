@@ -35,7 +35,7 @@
 <div align="left">
   <a href="https://github.com/Tayen15"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181818&color=181717" height="30" alt="github badge" /></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/firtiansyahokta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=181818&color=0A66C2" height="30" alt="linkedin badge" /></a>
+  <a href="https://www.linkedin.com/in/firtiansyahokta"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30" alt="linkedin badge" /></a>
 </div>
 
 ###
