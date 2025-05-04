@@ -12,19 +12,19 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&labelColor=181818&color=FF2D20" height="30" alt="laravel badge" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&labelColor=181818&color=777BB4" height="30" alt="php badge" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=181818&color=38B2AC" height="30" alt="tailwindcss badge" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=181818&color=E34F26" height="30" alt="html5 badge" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=181818&color=1572B6" height="30" alt="css3 badge" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=181818&color=F05032" height="30" alt="git badge" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=181818&color=000000" height="30" alt="nextjs badge" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=181818&color=050F2C" height="30" alt="vscode badge" />
 </div>
 
