@@ -39,7 +39,7 @@
   <img width="12" />
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=181818&color=0A66C2" height="30" alt="linkedin badge" /></a>
   <img width="12" />
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=flat&logo=web&logoColor=white&labelColor=181818&color=FF6F61" height="30" alt="portfolio badge" /></a>
+  <a href="https://firtiansyah.oktaa.my.id"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=flat&logo=web&logoColor=white&labelColor=181818&color=FF6F61" height="30" alt="portfolio badge" /></a>
 </div>
 
 ###
