@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=181818&color=F05032" height="30" alt="git badge" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=181818&color=000000" height="30" alt="nextjs badge" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=181818&color=050F2C" height="30" alt="vscode badge" />
 </div>
 
@@ -33,9 +35,11 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/Tayen15"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181818&color=181717" height="30" alt="github badge" /></a>
+  <a href="https://github.com/Tayen15"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181818&color=181717" height="30" alt="github badge" /></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/firtiansyahokta"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30" alt="linkedin badge" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=181818&color=0A66C2" height="30" alt="linkedin badge" /></a>
+  <img width="12" />
+  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=flat&logo=web&logoColor=white&labelColor=181818&color=FF6F61" height="30" alt="portfolio badge" /></a>
 </div>
 
 ###
